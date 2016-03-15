@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=java.lang.String\ dispMainMenu()
+comment0.text=\r\n\ toStringMethod\ that\ returns\ a\ string\ value\ for\ the\ main\ menu.\r\n\ \r\n\ @\ return\ main\ menu\ String\ representation.\r\n
+comment1.params=
+comment1.target=java.lang.String\ dispCharSheetMenu()
+comment1.text=\r\n\ toStringMethod\ that\ returns\ a\ string\ value\ for\ Character\ Sheet\ menu.\r\n\ \r\n\ @\ return\ charcter\ sheet\ menu\ String\ representation.\r\n
+comment2.params=firstName\ lastName\ myAttributes\ mySkills\ myProficiencies
+comment2.target=void\ charSheetMenu(java.lang.String,\ java.lang.String,\ Attributes,\ Skills,\ Proficiencies)
+comment2.text=\r\n\ toStringMethod\ that\ returns\ a\ string\ value\ for\ a\ Character\ Sheet.\r\n\ \r\n\ @\ param\ firstName\ -\ The\ String\ value\ for\ the\ character's\ first\ name.\r\n\ @\ param\ lastName\ -\ The\ String\ value\ for\ the\ character's\ last\ name.\r\n
+comment3.params=
+comment3.target=java.lang.String\ dispCharModMenu()
+comment3.text=\r\n\ toStringMethod\ that\ returns\ a\ string\ value\ for\ Modify\ Character\ menu.\r\n\ \r\n\ @\ return\ modify\ charcter\ menu\ String\ representation.\r\n
+comment4.params=firstName\ lastName
+comment4.target=void\ modifyCharacter(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ A\ method\r\n\ \r\n\ @\ param\ firstName\ -\ The\ String\ value\ for\ the\ character's\ first\ name.\r\n\ @\ param\ lastName\ -\ The\ String\ value\ for\ the\ character's\ last\ name.\r\n
+numComments=5

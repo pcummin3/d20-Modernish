@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Proficiencies()
+comment0.text=\r\n\ Default\ Constructor\ for\ objects\ of\ class\ Skills.\r\n
+comment1.params=firstName\ lastName\ myAttributes
+comment1.target=java.lang.String\ dispProficiencies(java.lang.String,\ java.lang.String,\ Attributes)
+comment1.text=\r\n\ toStringMethod\ that\ returns\ a\ string\ value\ of\ the\ Character\ Proficiencies.\r\n\ \r\n\ @\ param\ firstName\ -\ Takes\ in\ the\ firstName\ String\ for\ display.\r\n\ @\ param\ lastName\ -\ Takes\ in\ the\ lastName\ String\ for\ display.\r\n
+numComments=2
